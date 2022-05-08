@@ -4,7 +4,7 @@ Mi nombre es ***Jano Martino*** y soy de Argentina 🧉
 
 Actualmente trabajo en obras de construcción 👷‍ y si bien es un trabajo muy cansador amo tanto programar que ***siempre*** tengo energía para hacerlo 💪
 
-Mi idea es en un futuro convertirme en un ***programador Full Stack*** 💻 pero de momento estoy aprendiendo sobre programacion orientada al ***FrontEnd*** 👨‍💻
+Mi ***objetivo*** en un futuro es ser ***programador Full Stack*** 💻 pero de momento estoy aprendiendo sobre programacion orientada al ***FrontEnd*** 👨‍💻
 
 
 ## Conecta Conmigo:
