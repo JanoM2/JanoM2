@@ -27,7 +27,7 @@ Mi idea es en un futuro convertirme en un ***programador Full Stack*** 💻 pero
 <p align="center">
 
 [<img src="https://jonmircha.com/img/kEnAi.svg" alt="css3" width="40" height="40"/>](https://jonmircha.com/)
-[<img src="https://static.platzi.com/ui/assets/image/isotipoPlatzi093f27a2fb00922bb105.png" alt="css3" width="40" height="40"/>](https://platzi.com/)
+[<img src="https://static.platzi.com/ui/assets/image/isotipoPlatzi093f27a2fb00922bb105.png" alt="css3" width="40" height="40"/>](https://platzi.com/cursos/programacion-basica/)
 [<img src="https://yt3.ggpht.com/ytc/AKedOLTBFvOrff69Sw8UxdRsEF5ABUpNZpxfmm86VNZZgQ=s88-c-k-c0x00ffffff-no-rj" alt="css3" width="40" height="40"/>](https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ)
 [<img src="https://yt3.ggpht.com/jHpWdf9qWNdrCjxfQxCxR0aiYY9Y1IO7s6Jwlk-OgKxS8nzjEMffakE6mdOdp2u22R3130U0nQ=s88-c-k-c0x00ffffff-no-rj" alt="css3" width="40" height="40"/>](https://www.youtube.com/c/soydalto/)
 [<img src="https://lh3.googleusercontent.com/5-yf7s6KGhPFu3hm8UwGnOwloyrEK5hVervmLKfbU1YVj5qwr0dqZ-I2BaleZ14smfc8sjIhnqHbmjS7VFAMZZwS9UQK_RlX6bFmAB8=-rw" alt="css3" width="120" height="40"/>](https://learndigital.withgoogle.com/activate/)
