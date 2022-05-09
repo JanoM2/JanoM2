@@ -12,7 +12,7 @@ Mi ***objetivo*** en un futuro es ser ***programador Full Stack*** 💻 pero de 
 
 <br>
 
-## Lenguajes:
+## Lenguajes que Aprendí:
 
 <p align="center">
   
@@ -23,7 +23,7 @@ Mi ***objetivo*** en un futuro es ser ***programador Full Stack*** 💻 pero de 
   
 </p>
 
-## Cursos:
+## Cursos que Utilicé:
 
 <p  align="right">
 
