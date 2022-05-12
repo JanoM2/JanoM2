@@ -29,7 +29,7 @@ Mi ***objetivo*** en un futuro es ser ***programador Full Stack*** 💻 pero de 
 
 <a href="https://jonmircha.com/" target="_blank"><img src="https://jonmircha.com/img/kEnAi.svg" alt="Jon Mircha" width="40" height="40"/> ***Jon Mircha***</a>
   
-<a href="https://platzi.com/cursos/programacion-basica/" target="_blank"><img src="https://static.platzi.com/ui/assets/image/isotipoPlatzi093f27a2fb00922bb105.png" alt="css3" width="40" height="40"/>***Platzi***</a>
+<a href="https://platzi.com/cursos/programacion-basica/" target="_blank"><img src="https://static.platzi.com/ui/assets/image/isotipoPlatzi093f27a2fb00922bb105.png" alt="css3" width="40" height="40"/> ***Platzi***</a>
   
 <a href="https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ" target="_blank"><img src="https://yt3.ggpht.com/ytc/AKedOLTBFvOrff69Sw8UxdRsEF5ABUpNZpxfmm86VNZZgQ=s88-c-k-c0x00ffffff-no-rj" alt="css3" width="40" height="40"/> ***MiDudev***</a>
 
