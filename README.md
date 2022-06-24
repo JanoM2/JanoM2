@@ -1,5 +1,18 @@
 # Hola Mundo! 👋
 
+const about = {from: "Argentina", 
+               birthday: "08/04/2001",
+               fav-sport: "Basketball",
+               fav-movie: "Fragmentado"};
+
+const skills = { "HTML", "CSS", "Git", "JavaScript"};
+
+const social = {linkedin: "https://www.linkedin.com/in/mariaclara-molinayvedia/",
+                behance: "https://www.behance.net/claramolina3",
+                instagram: "https://www.instagram.com/clari.myv/"
+                }
+
+
 Mi nombre es ***Jano Martino*** y soy de Argentina 🧉
 
 Actualmente trabajo en obras de construcción 👷‍ y si bien es un trabajo muy cansador amo tanto programar que ***siempre*** tengo energía para hacerlo 💪
