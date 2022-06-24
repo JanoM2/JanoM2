@@ -1,20 +1,20 @@
 # Hola Mundo! 👋
 
 ```javascript  
-const about = {from: "Argentina", 
+const about = { from: "Argentina", 
                birthday: "08/04/2001",
                fav-sport: "Basketball",
-               fav-movie: "Fragmentado"};
+               fav-movie: "Fragmentado" };
 
-const skills = { "HTML", "CSS", "Git", "JavaScript"};
+const skills = { "HTML", "CSS", "Git", "JavaScript" };
 
-const learning_material = { Jon-Mircha: "https://jonmircha.com/",
+const learning_material = { jon-Mircha: "https://jonmircha.com/",
                             Platzi: "https://platzi.com/cursos/programacion-basica/",
                             miDudev: "https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ",
                             soyDalto: "https://www.youtube.com/c/soydalto/",
                             Google-Activate: "https://learndigital.withgoogle.com/activate/" };
 
-const social = { linkedin: "https://www.linkedin.com/in/jano-martino-70032b20b/",
+const social = { linkedin: <a>"https://www.linkedin.com/in/jano-martino-70032b20b/"</a>,
                 behance: "https://www.behance.net/claramolina3",
                 instagram: "https://www.instagram.com/clari.myv/" };
 
