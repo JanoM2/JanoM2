@@ -8,6 +8,12 @@ const about = {from: "Argentina",
 
 const skills = { "HTML", "CSS", "Git", "JavaScript"};
 
+const learning_material = { Jon-Mircha: "https://jonmircha.com/",
+                            Platzi: "https://platzi.com/cursos/programacion-basica/",
+                            miDudev: "https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ",
+                            soyDalto: "https://www.youtube.com/c/soydalto/",
+                            Google-Activate: "https://learndigital.withgoogle.com/activate/" };
+
 const social = { linkedin: "https://www.linkedin.com/in/jano-martino-70032b20b/",
                 behance: "https://www.behance.net/claramolina3",
                 instagram: "https://www.instagram.com/clari.myv/" };
