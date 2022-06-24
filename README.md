@@ -19,7 +19,7 @@ const social = { linkedin: "https://www.linkedin.com/in/jano-martino-70032b20b/"
 if (you-want-to = talk-with-me){
       document.write("martinojano0@gmail.com");
 } else {
-      document.write(😔😡);
+      document.write("Now I'm sad 😔😡");
 };
 
 
