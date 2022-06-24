@@ -6,17 +6,15 @@ const about = { from: "Argentina",
                fav-sport: "Basketball",
                fav-movie: "Fragmentado" };
 
-const skills = { "HTML", "CSS", "Git", "JavaScript" };
+const skills = { "HTML", "CSS", "JavaScript", "Git" };
 
-const learning_material = { jon-Mircha: "https://jonmircha.com/",
+const learning_material = { jon-mircha: "https://jonmircha.com/",
                             Platzi: "https://platzi.com/cursos/programacion-basica/",
                             miDudev: "https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ",
                             soyDalto: "https://www.youtube.com/c/soydalto/",
                             Google-Activate: "https://learndigital.withgoogle.com/activate/" };
 
-const social = { linkedin: <a>"https://www.linkedin.com/in/jano-martino-70032b20b/"</a>,
-                behance: "https://www.behance.net/claramolina3",
-                instagram: "https://www.instagram.com/clari.myv/" };
+const social = { linkedin: <a href= target="blank">"https://www.linkedin.com/in/jano-martino-70032b20b/"</a> };
 
 ```  
 
@@ -60,17 +58,6 @@ Mi ***objetivo*** en un futuro es ser ***programador Full Stack*** 💻 pero de 
   
 </p>
 
-
 **JanoM2/JanoM2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
