@@ -14,12 +14,12 @@ const learning_material = { jon-mircha: "https://jonmircha.com/",
                             soyDalto: "https://www.youtube.com/c/soydalto/",
                             Google-Activate: "https://learndigital.withgoogle.com/activate/" };
 
-const social = { linkedin: <a href= target="blank">"https://www.linkedin.com/in/jano-martino-70032b20b/"</a> };
+const social = { linkedin: "https://www.linkedin.com/in/jano-martino-70032b20b/" };
 
 if (you-want-to = talk-with-me){
       document.write("martinojano0@gmail.com")
 } else {
-      document.write("martinojano0@gmail.com 🤭")
+      document.write("😔😡")
 };
 
 
