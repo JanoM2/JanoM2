@@ -1,5 +1,6 @@
 # Hola Mundo! 👋
 
+```javascript  
 const about = {from: "Argentina", 
                birthday: "08/04/2001",
                fav-sport: "Basketball",
@@ -7,12 +8,13 @@ const about = {from: "Argentina",
 
 const skills = { "HTML", "CSS", "Git", "JavaScript"};
 
-const social = {linkedin: "https://www.linkedin.com/in/mariaclara-molinayvedia/",
+const social = { linkedin: "https://www.linkedin.com/in/jano-martino-70032b20b/",
                 behance: "https://www.behance.net/claramolina3",
-                instagram: "https://www.instagram.com/clari.myv/"
-                }
+                instagram: "https://www.instagram.com/clari.myv/" };
 
+```  
 
+<!--
 Mi nombre es ***Jano Martino*** y soy de Argentina 🧉
 
 Actualmente trabajo en obras de construcción 👷‍ y si bien es un trabajo muy cansador amo tanto programar que ***siempre*** tengo energía para hacerlo 💪
@@ -21,7 +23,7 @@ Mi ***objetivo*** en un futuro es ser ***programador Full Stack*** 💻 pero de 
 
 
 ## Conecta Conmigo:
-<a href="https://www.linkedin.com/in/jano-martino-70032b20b/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href= target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 
 <br>
 
@@ -52,7 +54,7 @@ Mi ***objetivo*** en un futuro es ser ***programador Full Stack*** 💻 pero de 
   
 </p>
 
-<!--
+
 **JanoM2/JanoM2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
