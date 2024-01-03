@@ -6,14 +6,14 @@ const about = { from: "Argentina",
                fav-sport: "Basketball",
                fav-movie: "Fragmentado" };
 
-const skills = { "HTML", "CSS", "JavaScript", "Vue Js", "Git" };
+const skills = { "HTML", "CSS", "JavaScript", "Vue.Js", "Git" };
 
-const learning_material = { jon-mircha: "https://jonmircha.com/",
+const learning_material = { Jon-mircha: "https://jonmircha.com/",
                             Platzi: "https://platzi.com/cursos/programacion-basica/",
                             miDudev: "https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ",
                             soyDalto: "https://www.youtube.com/c/soydalto/",
                             Google-Activate: "https://learndigital.withgoogle.com/activate/",
-                            Fernando Herrera: "https://www.udemy.com/course/vuejs-fh/", };
+                            Fernando-Herrera: "https://www.udemy.com/course/vuejs-fh/", };
 
 const social = { linkedin: "https://www.linkedin.com/in/janomartino/" };
 
