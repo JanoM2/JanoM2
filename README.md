@@ -6,15 +6,16 @@ const about = { from: "Argentina",
                fav-sport: "Basketball",
                fav-movie: "Fragmentado" };
 
-const skills = { "HTML", "CSS", "JavaScript", "Git" };
+const skills = { "HTML", "CSS", "JavaScript", "Vue Js", "Git" };
 
 const learning_material = { jon-mircha: "https://jonmircha.com/",
                             Platzi: "https://platzi.com/cursos/programacion-basica/",
                             miDudev: "https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ",
                             soyDalto: "https://www.youtube.com/c/soydalto/",
-                            Google-Activate: "https://learndigital.withgoogle.com/activate/" };
+                            Google-Activate: "https://learndigital.withgoogle.com/activate/",
+                            Fernando Herrera: "https://www.udemy.com/course/vuejs-fh/", };
 
-const social = { linkedin: "https://www.linkedin.com/in/jano-martino-70032b20b/" };
+const social = { linkedin: "https://www.linkedin.com/in/janomartino/" };
 
 if (you-want-to = talk-with-me){
       document.write("martinojano0@gmail.com");
