@@ -6,7 +6,8 @@ const about = { from: "Argentina",
                fav-sport: "Basketball",
                fav-movie: "Fragmentado" };
 
-const skills = { "HTML", "CSS", "Talwind", "Chakra", "TypeScript", "JavaScript", "DOM", "Vue.Js", "vuex", "vue router", "React", "redux toolkit", "Next.js", "Rest API", "Git", "Linear" };
+const skills = { "HTML", "CSS", "Talwind", "Chakra", "TypeScript", "JavaScript", "DOM", "Vue.Js", "vuex",
+                  "vue router", "React", "redux toolkit", "Next.js", "Rest API", "Git", "Linear" };
 
 const learning_material = { jon-mircha: "https://jonmircha.com/",
                             miDudev: "https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ",
