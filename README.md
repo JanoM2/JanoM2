@@ -10,11 +10,11 @@ const skills = { "HTML", "CSS", "Talwind", "Chakra", "TypeScript", "JavaScript",
                   "vue router", "React", "redux toolkit", "Next.js", "Rest API", "Git", "Linear" };
 
 const learning_material = { jon-mircha: "https://jonmircha.com/",
-                            miDudev: "https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ",
-                            Google-Activate: "https://learndigital.withgoogle.com/activate/",
-                            Fernando-herrera: "https://www.udemy.com/course/vuejs-fh/",
-                            Platzi: "https://platzi.com/cursos/programacion-basica/",
-                            soyDalto: "https://www.youtube.com/c/soydalto/" };
+                            midudev: "https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ",
+                            google-activate: "https://learndigital.withgoogle.com/activate/",
+                            fernando-herrera: "https://www.udemy.com/course/vuejs-fh/",
+                            platzi: "https://platzi.com/cursos/programacion-basica/",
+                            soydalto: "https://www.youtube.com/c/soydalto/" };
 
 const social = { linkedin: "https://www.linkedin.com/in/janomartino/", portfolio: "https://janom2.github.io/" };
 
