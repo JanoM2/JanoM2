@@ -6,16 +6,16 @@ const about = { from: "Argentina",
                fav-sport: "Basketball",
                fav-movie: "Fragmentado" };
 
-const skills = { "HTML", "CSS", "JavaScript", "Vue.Js", "Git" };
+const skills = { "HTML", "CSS", "Talwind", "Chakra", "TypeScript", "JavaScript", "DOM", "Vue.Js", "vuex", "vue router", "React", "redux toolkit", "Next.js", "Rest API", "Git", "Linear" };
 
 const learning_material = { jon-mircha: "https://jonmircha.com/",
-                            Platzi: "https://platzi.com/cursos/programacion-basica/",
                             miDudev: "https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ",
-                            soyDalto: "https://www.youtube.com/c/soydalto/",
                             Google-Activate: "https://learndigital.withgoogle.com/activate/",
-                            Fernando-herrera: "https://www.udemy.com/course/vuejs-fh/", };
+                            Fernando-herrera: "https://www.udemy.com/course/vuejs-fh/",
+                            Platzi: "https://platzi.com/cursos/programacion-basica/",
+                            soyDalto: "https://www.youtube.com/c/soydalto/" };
 
-const social = { linkedin: "https://www.linkedin.com/in/janomartino/" };
+const social = { linkedin: "https://www.linkedin.com/in/janomartino/", portfolio: "https://janom2.github.io/" };
 
 if (you-want-to = talk-with-me){
       document.write("martinojano0@gmail.com");
