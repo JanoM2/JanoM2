@@ -9,7 +9,7 @@ const about = { from: "Argentina",
 const skills = { "HTML", "CSS", "Talwind", "Chakra", "TypeScript", "JavaScript", "DOM", "Vue.Js", "vuex",
                   "vue router", "React", "redux toolkit", "Next.js", "Rest API", "Git", "Linear" };
 
-const learning_material = {  (https://jonmircha.com/)[jon-mircha] ,
+const learning_material = {  jon-mircha: "https://jonmircha.com/",
                             midudev: "https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ",
                             google-activate: "https://learndigital.withgoogle.com/activate/",
                             fernando-herrera: "https://www.udemy.com/course/vuejs-fh/",
